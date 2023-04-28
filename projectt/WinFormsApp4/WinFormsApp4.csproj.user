@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Arraylist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Datetimesinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Degiskenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dictionaryfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diziler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Donguler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exception.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formozfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HashTablefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Konular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Listfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mathsinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Operatorler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sabitler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stringsinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Throwfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TryCatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
